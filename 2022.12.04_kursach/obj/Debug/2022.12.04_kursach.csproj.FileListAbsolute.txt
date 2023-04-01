@@ -1,0 +1,11 @@
+C:\Users\Semen\source\repos\2022.12.04_kursach\2022.12.04_kursach\bin\Debug\2022.12.04_kursach.exe.config
+C:\Users\Semen\source\repos\2022.12.04_kursach\2022.12.04_kursach\bin\Debug\2022.12.04_kursach.exe
+C:\Users\Semen\source\repos\2022.12.04_kursach\2022.12.04_kursach\bin\Debug\2022.12.04_kursach.pdb
+C:\Users\Semen\source\repos\2022.12.04_kursach\2022.12.04_kursach\obj\Debug\2022.12.04_kursach.csproj.AssemblyReference.cache
+C:\Users\Semen\source\repos\2022.12.04_kursach\2022.12.04_kursach\obj\Debug\2022.12.04_kursach.csproj.SuggestedBindingRedirects.cache
+C:\Users\Semen\source\repos\2022.12.04_kursach\2022.12.04_kursach\obj\Debug\_2022._12._04_kursach.Form1.resources
+C:\Users\Semen\source\repos\2022.12.04_kursach\2022.12.04_kursach\obj\Debug\_2022._12._04_kursach.Properties.Resources.resources
+C:\Users\Semen\source\repos\2022.12.04_kursach\2022.12.04_kursach\obj\Debug\2022.12.04_kursach.csproj.GenerateResource.cache
+C:\Users\Semen\source\repos\2022.12.04_kursach\2022.12.04_kursach\obj\Debug\2022.12.04_kursach.csproj.CoreCompileInputs.cache
+C:\Users\Semen\source\repos\2022.12.04_kursach\2022.12.04_kursach\obj\Debug\2022.12.04_kursach.exe
+C:\Users\Semen\source\repos\2022.12.04_kursach\2022.12.04_kursach\obj\Debug\2022.12.04_kursach.pdb
